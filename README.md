@@ -6,13 +6,13 @@ Records performance in apex legends
 
 ## Examples
 * "Record a kill"
-* "Record 2 kills, me and bradley"
+* "Record 2 kills, me and Alice"
 * "I killed 2 people"
-* "Record 2 kills, 1 me, 1 bradley"
+* "Record 2 kills, 1 me, 1 Alice"
 * "Record i died"
-* "Record jandrew died"
+* "Record Bob died"
 * "I'm dead"
-* "Bradley died"
+* "Alice died"
 
 ## Credits
 
